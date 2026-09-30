@@ -1,0 +1,9 @@
+# Non-frontend directories and files to ignore during Vercel deployment
+functions
+*.docx
+Architecture.md
+TRD.md
+ai_rules.md
+design.md
+memory.md
+phases.md
